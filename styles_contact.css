@@ -2,7 +2,7 @@
 
 body {
   background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
-  background-image: url('image/board.jpg');
+  background-image: url('board.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
