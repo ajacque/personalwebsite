@@ -85,6 +85,10 @@ hr {
   opacity: 0.25;
 }
 
+.portBack {
+  background-color: #000000;
+}
+
 hr:not([size]) {
   height: 1px;
 }
